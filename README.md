@@ -13,6 +13,9 @@
 
 ### 데모 영상/이미지
 https://www.youtube.com/watch?v=UrwfBuVE4Yk
+![carts1](https://user-images.githubusercontent.com/63541271/129475737-f10fe503-e1bf-49d4-918a-5a0edf627d97.gif)
+![carts2](https://user-images.githubusercontent.com/63541271/129475740-7c268e97-39db-40cc-9066-028e0b3fb390.gif)
+
 
 ## 적용 기술 및 구현 기능
 ### 적용 기술
@@ -39,6 +42,7 @@ https://www.youtube.com/watch?v=UrwfBuVE4Yk
 
 장바구니 
 - 생성/조회/수정/삭제 기능
+- 장바구니 개별 금액 및 총 주문 금액 표시
 
 리뷰 (Backend)
 - 생성/조회/수정/삭제 기능
