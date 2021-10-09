@@ -1,4 +1,4 @@
-[gaebalance_logo](https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png)
+<img src="https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png">
 # Gaebalance
 ## Description
 - 신발 브랜드 "뉴발란스"의 레이아웃을 토대로, 커머스 사이트 운영에 필수적인 기능 위주로 개발
@@ -25,6 +25,13 @@ https://www.youtube.com/watch?v=UrwfBuVE4Yk
 - Back-End : Python, Django web framework, Bcrypt, PyJWT, MySQL
 - Common : AWS(RDS/EC2), RESTful API
 - Communication: Slack, Trello, Goolge Docs
+
+## Entity Relationship Diagram
+- Aquery url : https://aquerytool.com/aquerymain/index/?rurl=cbfa9880-57c7-4198-9ad2-75ef87548d29&
+- Aquery password : 5624k4
+- ERD as below
+<img width="794" alt="Gaebalance_modeling" src="https://user-images.githubusercontent.com/63541271/136644213-0da9729b-2c82-44f3-955d-3a20537009cb.png">
+
 
 ## Reference
 - 이 프로젝트는 뉴발란스 사이트를 참조하여 학습목적으로 만들었습니다.
