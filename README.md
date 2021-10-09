@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png">
+<img width="794" src="https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png">
+<br>
 # Gaebalance
 ## Description
 - 신발 브랜드 "뉴발란스"의 레이아웃을 토대로, 커머스 사이트 운영에 필수적인 기능 위주로 개발
