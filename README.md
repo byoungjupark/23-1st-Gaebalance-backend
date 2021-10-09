@@ -1,7 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png"></div>
 
 # Gaebalance Project
-## Description
 - 신발 브랜드 "뉴발란스"의 레이아웃을 토대로, 커머스 사이트 운영에 필수적인 기능 위주로 개발
 - 개발 기간 : 2021.08.02 ~ 2021.08.13
 - 개발 인원 : Front-end 3명 Back-end 3명
