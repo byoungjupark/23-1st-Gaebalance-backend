@@ -1,4 +1,4 @@
-<p><img width="300" src="https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png"></p>
+<p><img src="https://user-images.githubusercontent.com/63541271/136643672-efd9aa21-06a7-468c-9e91-6d744c2268da.png"></p>
 <br>
 # Gaebalance
 ## Description
